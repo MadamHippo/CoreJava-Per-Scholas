@@ -20,7 +20,7 @@ import java.util.Scanner;
 
 public class RectangleAreaPractice {
 
-    // main() is static so it doesn't have direct access to instance state or methods
+    // main() is static, therefore it doesn't have direct access to instance state or methods
     public static void main(String[] args) {
 
 
