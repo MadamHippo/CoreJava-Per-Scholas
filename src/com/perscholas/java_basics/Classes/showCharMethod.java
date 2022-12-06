@@ -19,6 +19,8 @@ the method in a complete program.
 public class showCharMethod {
     public static void main(String[] args) {
 
+
+
         // Instance field variable
         String userWord;
         int index;
