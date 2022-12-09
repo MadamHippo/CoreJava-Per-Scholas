@@ -2,7 +2,7 @@ package com.perscholas.java_basics.ArrayLists;
 import java.util.ArrayList;
 import java.util.List;
 
-public class ArraylistLabs {
+public class ArrayListLabs {
     /*
     Key Points about ArrayList in Java:
         An ArrayList is a resizable array, also called a dynamic array. It grows its size to accommodate new elements, and shrinks its size when the elements are removed.
