@@ -22,8 +22,8 @@ public class TestScoresMain {
         TestScores studentA = new TestScores(inputTest1, inputTest2, inputTest3);
 
         studentA.setTestScore1(inputTest1);
-        studentA.setTestScore1(inputTest2);
-        studentA.setTestScore1(inputTest3);
+        studentA.setTestScore2(inputTest2);
+        studentA.setTestScore3(inputTest3);
 
         System.out.println(studentA.averageTestScores());
 
