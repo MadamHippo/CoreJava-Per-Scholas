@@ -1,4 +1,4 @@
-package com.perscholas.java_basics.classes.JavaPracticeBookQuestions;
+package com.perscholas.java_basics.classes.JavaPracticeBookQuestions.Chapter10;
 
 import java.util.Scanner;
 

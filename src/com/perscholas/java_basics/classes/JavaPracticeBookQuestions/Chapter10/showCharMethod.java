@@ -1,4 +1,4 @@
-package com.perscholas.java_basics.classes.JavaPracticeBookQuestions;
+package com.perscholas.java_basics.classes.JavaPracticeBookQuestions.Chapter10;
 import java.util.Scanner;
 
 
@@ -36,7 +36,7 @@ public class showCharMethod {
         showChar(userWord, index);
     }
 
-    // the method accepts 2 arguments...string (userWord) and (index).
+    // Calling the method accepts 2 arguments...string (userWord) and (index).
     public static void showChar(String string, int i) {
         System.out.println(string.charAt(i));
     }
